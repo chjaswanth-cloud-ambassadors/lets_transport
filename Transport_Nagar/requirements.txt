@@ -1,0 +1,16 @@
+# Requirements for Web Scraping Script
+
+## Software Requirements
+# Python 3.6 or higher
+# Download from: https://www.python.org/downloads/
+
+# Google Chrome (Latest Version)
+# Download from: https://www.google.com/chrome/
+
+# ChromeDriver (Matching version of Google Chrome)
+# Download from: https://sites.google.com/chromium.org/driver/
+
+## Python Packages
+beautifulsoup4==4.12.0  # Used for HTML parsing
+requests==2.31.0        # For sending HTTP requests
+lxml==4.9.2             # Used by BeautifulSoup for faster parsing
