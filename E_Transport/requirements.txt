@@ -1,0 +1,8 @@
+# Specify Python version   python 3.12.3
+
+## Python Packages
+# List of required packages with their respective versions
+
+requests==2.32.3
+beautifulsoup4==4.12.3
+lxml==5.3.0
