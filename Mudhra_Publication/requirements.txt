@@ -1,0 +1,18 @@
+# Requirements for Selenium Web Scraping Script
+
+## Software Requirements
+- **Python**: 3.6 or higher  
+  Download from: [https://www.python.org/downloads/](https://www.python.org/downloads/)
+
+- **Google Chrome**: Latest Version  
+  Download from: [https://www.google.com/chrome/](https://www.google.com/chrome/)
+
+- **ChromeDriver**: Must match the version of Google Chrome  
+  Download from: [https://sites.google.com/chromium.org/driver/](https://sites.google.com/chromium.org/driver/)
+
+## Python Packages
+- **selenium**  # For browser automation
+
+## Installation
+To install the required Python packages, create a `requirements.txt` file with the following content:
+
