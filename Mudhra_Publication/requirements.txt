@@ -16,3 +16,7 @@
 ## Installation
 To install the required Python packages, create a `requirements.txt` file with the following content:
 
+Then run the following command:
+
+```bash
+pip install -r requirements.txt
